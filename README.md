@@ -1,1 +1,1 @@
-# ONEONONE_1
+# 一个自定义的permissionlib。目的在于将自己的lib发布到jcenter
